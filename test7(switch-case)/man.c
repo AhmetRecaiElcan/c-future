@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+/*İf else ile hemen hemen aynı mantığını kavra*/
 int main()
 {
      int day=4;
